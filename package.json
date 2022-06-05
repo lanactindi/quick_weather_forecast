@@ -8,6 +8,7 @@
   },
   "author": "lanlehoang67",
   "license": "ISC",
+  "repository": "https://github.com/lanactindi/quick_weather_forecast",
   "dependencies": {
     "axios": "^0.27.2",
     "inquirer": "^8.2.4"
